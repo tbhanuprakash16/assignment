@@ -1,0 +1,126 @@
+.bg-container {
+    background-color: #ff9999;
+    background-size: cover;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    padding-right: 10px;
+}
+
+.profile-container {
+    align-self: center;
+}
+
+.profile-icon {
+    color: #003366;
+}
+
+.profile {
+    color: #003366;
+    font-size: 12px;
+    padding-left: 6px;
+}
+
+.top-layout {
+    display: flex;
+    border-bottom: 3px solid #003366;
+    width: 90%;
+    margin-left: 18px;
+    overflow: auto;
+}
+
+.top-layout2 {
+    border-bottom: 3px solid #003366;
+    width: 90%;
+    margin-left: 18px;
+    overflow: auto;
+}
+
+.caroline-section {
+    border-right: 3px solid #003366;
+    width: 50%;
+    height: 100%;
+}
+
+.top-section1 {
+    display: flex;
+}
+
+.caroline-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #003366;
+    font-weight: 500;
+}
+
+.description {
+    font-size: 16px;
+    color: #003366;
+    font-family: "Roboto";
+}
+
+.description-section {
+    width: 50%;
+}
+
+.description1 {
+    font-size: 12px;
+    color: #003366;
+    font-family: "Roboto";
+}
+
+.work {
+    font-size: 60px;
+    color: #003366;
+}
+
+.work-heading {
+    color: #003366;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.work-description {
+    color: #003366;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.layout-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.work-section {
+    align-self: center;
+}
+
+.skills {
+    font-size: 40px;
+    color: black;
+}
+
+.skills-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+.circle {
+    color: #003366;
+    margin-right: 10px;
+}
+
+.awards {
+    align-self: center;
+}
+
+.bulb-icon {
+    color: #003366;
+}
+
+.interests {
+    display: flex;
+    justify-content: space-around;
+}
